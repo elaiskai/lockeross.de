@@ -8,4 +8,4 @@ Six German Omnisend recovery emails, with Lithuanian reading copies.
 - [Standalone preview with embedded assets](recovery-emails/Lockeross-DE-LT.html)
 - [Layout QA](recovery-emails/qa.json)
 
-The third email in each sequence offers 10% off. Add the native abandoned product block before the first CTA in Omnisend. Connect the recovery and unsubscribe URLs and the discount code, then run platform delivery tests.
+All six emails offer 15% off with code PFLEGE15. Add the native abandoned product block before the first CTA in Omnisend. Connect the recovery and unsubscribe URLs and the discount code, then run platform delivery tests.

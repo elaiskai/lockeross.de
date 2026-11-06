@@ -10,6 +10,8 @@
 
 Du hattest etwas für dein Pferd ausgesucht. Ob nach dem Reiten oder für einen ruhigen Moment im Stall: Schau dir deine Auswahl noch einmal an.
 
+**Angebot:** 15 % Rabatt für deine Rückkehr. Gib den Code PFLEGE15 beim Bezahlen ein.
+
 **CTA:** Meinen Warenkorb ansehen
 
 **Bestell in Ruhe.**
@@ -26,6 +28,8 @@ Wir versenden kostenlos mit Sendungsverfolgung. Du hast nach Erhalt 30 Tage Zeit
 
 Jedes Pferd reagiert anders. Die Erfahrungen anderer Pferdebesitzer geben dir einen Einblick, wie ein ruhiger Pflegemoment im Stall aussehen kann.
 
+**Angebot:** 15 % Rabatt für deine Rückkehr. Gib den Code PFLEGE15 beim Bezahlen ein.
+
 **CTA:** Zurück zu meiner Auswahl
 
 **Finde heraus, was zu euch passt.**
@@ -34,13 +38,15 @@ Ob deine Auswahl zu euch passt, merkst du am besten im Alltag. Wenn du innerhalb
 
 ## cart-03
 
-**Betreff:** Für euch beide: 10 % Rabatt
+**Betreff:** Für euch beide: 15 % Rabatt
 
-**Preheader:** Deine Auswahl mit 10 % Rabatt und kostenloser Lieferung.
+**Preheader:** Deine Auswahl mit 15 % Rabatt und kostenloser Lieferung.
 
-**Zeit für euch. Mit 10 % Rabatt.**
+**Zeit für euch. Mit 15 % Rabatt.**
 
-Du hattest bereits etwas für dein Pferd ausgesucht. Mit 10 % Rabatt machen wir dir den nächsten Schritt leichter. Gib deinen Rabattcode beim Bezahlen ein.
+Du hattest bereits etwas für dein Pferd ausgesucht. Mit 15 % Rabatt machen wir dir den nächsten Schritt leichter. Gib deinen Rabattcode beim Bezahlen ein.
+
+**Angebot:** 15 % Rabatt für deine Rückkehr. Gib den Code PFLEGE15 beim Bezahlen ein.
 
 **CTA:** Zu meinem Warenkorb
 
@@ -58,6 +64,8 @@ Zu deinem Rabatt kommen kostenloser Versand mit Sendungsverfolgung und unsere Ga
 
 Du hast mit dem Bezahlen begonnen, aber deine Bestellung noch nicht abgeschlossen. Prüfe deine Angaben und setze deine Bestellung fort.
 
+**Angebot:** 15 % Rabatt für deine Rückkehr. Gib den Code PFLEGE15 beim Bezahlen ein.
+
 **CTA:** Bestellung abschließen
 
 **Das kannst du von uns erwarten.**
@@ -74,6 +82,8 @@ Dein Paket wird kostenlos und mit Sendungsverfolgung verschickt. Passt dein Kauf
 
 Du musst nicht allein anhand von Produktfotos entscheiden. Ab Erhalt hast du 30 Tage Zeit, deinen Kauf auszuprobieren und zu sehen, ob er zu dir und deinem Pferd passt.
 
+**Angebot:** 15 % Rabatt für deine Rückkehr. Gib den Code PFLEGE15 beim Bezahlen ein.
+
 **CTA:** Mit meiner Bestellung fortfahren
 
 **Wir sind für dich da.**
@@ -82,15 +92,17 @@ Hast du Fragen zur Anwendung, zur Lieferung oder zur Rückgabe? Schreib uns an i
 
 ## checkout-03
 
-**Betreff:** Schließ deine Bestellung mit 10 % Rabatt ab
+**Betreff:** Schließ deine Bestellung mit 15 % Rabatt ab
 
 **Preheader:** Gib deinen Rabattcode beim Bezahlen ein.
 
-**Deine Bestellung. Jetzt mit 10 % Rabatt.**
+**Deine Bestellung. Jetzt mit 15 % Rabatt.**
 
-Deine Bestellung ist noch offen. Wir geben dir 10 % Rabatt auf deinen Einkauf. Kehre zu deiner Bestellung zurück und gib den Code ein, bevor du bezahlst.
+Deine Bestellung ist noch offen. Wir geben dir 15 % Rabatt auf deinen Einkauf. Kehre zu deiner Bestellung zurück und gib den Code ein, bevor du bezahlst.
 
-**CTA:** Mit 10 % Rabatt bestellen
+**Angebot:** 15 % Rabatt für deine Rückkehr. Gib den Code PFLEGE15 beim Bezahlen ein.
+
+**CTA:** Mit 15 % Rabatt bestellen
 
 **Bestell mit einem guten Gefühl.**
 

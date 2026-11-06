@@ -2,7 +2,7 @@
   "results": [
     {
       "file": "cart-01.html",
-      "sha256": "90ff6831d8a691ee80d920a96ab5ce8c2edeeaaa9fcf056fbfb8ff4a335cf028",
+      "sha256": "ee2298ccb6744659812939dede3a1ff8262f2718f1eaeaeaeed92e9b6c8b38df",
       "checks": [
         {
           "width": 600,
@@ -112,7 +112,7 @@
     },
     {
       "file": "cart-02.html",
-      "sha256": "48c3376341c0a2cbaaa62af64e19d3f1739049405fc3767117fedbb3f6d2f9db",
+      "sha256": "ba1a72fbc03c93599965e86fb8fb66f8d5d571a7d16554a831e8602ad43ad6b8",
       "checks": [
         {
           "width": 600,
@@ -222,7 +222,7 @@
     },
     {
       "file": "cart-03.html",
-      "sha256": "f908af24ad9848808fbbae8a5a19e4b950b37af50d434374b92517453861bd1b",
+      "sha256": "b969c6d9d768f3f93f2b8fa15587da10abea51f96e2f40da297b99d5518e97a6",
       "checks": [
         {
           "width": 600,
@@ -332,7 +332,7 @@
     },
     {
       "file": "checkout-01.html",
-      "sha256": "b612606bb34aa26974acf1cf9ad9128cdeaaa5286ead580cf80e00b12ef1f562",
+      "sha256": "aa43f7ad77430bf7aad0d9ca1b1e960a92e8197587fc7dad065721b7a91795f3",
       "checks": [
         {
           "width": 600,
@@ -442,7 +442,7 @@
     },
     {
       "file": "checkout-02.html",
-      "sha256": "9390151b6bb4ef12f46f6cf66c4c8a509edbe1a9b0eaefc165410d12e520f6ff",
+      "sha256": "8690cec2d3d3794568dcd64d55e10af498a63d97141269e1b39e64644f679d65",
       "checks": [
         {
           "width": 600,
@@ -552,7 +552,7 @@
     },
     {
       "file": "checkout-03.html",
-      "sha256": "6a661f5f33952ccedacbe39d9a2fc6991ae177236cc39e154da3957522265f9e",
+      "sha256": "f0bd1ee7220f62ad052d8bfdece4e7c81df1a4ba1947347dddb4b90dda9b9a1f",
       "checks": [
         {
           "width": 600,
@@ -663,58 +663,58 @@
   ],
   "visualReview": {
     "status": "passed",
-    "notes": "Inspected all six German layouts at 600, 320, 390 and 430 px, with and without head styles and font links. Wordmark, readable text, photo proportions, sequence, spacing and CTA placement checked."
+    "notes": "Inspected current full renders and discount sections at 600, 320, 390 and 430 px with and without head styles. Verified spacing, readable copy, image proportions, content order and CTA placement."
   },
   "platformTest": "not performed",
   "integrationComplete": false,
   "previewHashes": {
-    "cart-01-320-stripped.png": "00bf84767163a9fe350f6358f1d522baa5fbcd3d592aa329dc57246f43de9c20",
-    "cart-01-320.png": "0252c6d19e173774f8452c5ca19a8794b3d9fe7c893893e409d0d81935fe6060",
-    "cart-01-390-stripped.png": "55780a9ee08b755a44f39712207fbe5493b81900f1f9cbe116cbe1cbd87f301c",
-    "cart-01-390.png": "c8d1d117425219e05b61bf3ff393dadf70cbd90db5d64004959a1edb2b395dfe",
-    "cart-01-430-stripped.png": "2af13388c97a589dffc3ae5aeea760c0d58907ceaaca02411dfd90daa7b1bcfb",
-    "cart-01-430.png": "a49b3ebd39b7e9966d181d594de17ae9e2a061f1d34d80cdd206e621d26e8832",
-    "cart-01-600-stripped.png": "5c5d9cfbc957916ff22ec72637d1864e1b1aba88c36a994e387e31021684ff5a",
-    "cart-01-600.png": "a1ecdec1d782f7e8f4c0600f77a65ecb904638c788d968d4b30805a27d0d4651",
-    "cart-02-320-stripped.png": "5bf63ec9508e896f81765feb7bcb39d8f25b6d0a9ef20acabeacb0cb131636a1",
-    "cart-02-320.png": "e7fd51c27546eb15721c6bbcb8f198b2e91b6fb48268da125176d17de54e053b",
-    "cart-02-390-stripped.png": "18ee86473effd0550a8475151d3c0a0f2bc16f3adfb3668c0e132b3e691b13fb",
-    "cart-02-390.png": "d77c20a0403c2a20f220421636c749589e803784972c7842e2a01f505d1fd29e",
-    "cart-02-430-stripped.png": "74b35180c30b1d8e06fa4e052e5c6728306a4e168b3993e7f29e1c20bee4cdc8",
-    "cart-02-430.png": "c1f1de0e4cfa91203211d93e24900a6a838e21dd0d79ab572036a2126753b539",
-    "cart-02-600-stripped.png": "2cea60e51021aa458b0c23cef72507b3db6c08b25d0e01cac465e79f93b3e1b2",
-    "cart-02-600.png": "99b331a09fcd64462eb6c3d477d529edeb9f87278f27ebfca485cb06317b1664",
-    "cart-03-320-stripped.png": "3246e35121ce0f078f0753d50e41c6dc0101d58c73ed9a178de31d807509a2e0",
-    "cart-03-320.png": "830d3e6b2ebe746862cbe577d340866833d3ac37147dab3e95af6b9742e908ca",
-    "cart-03-390-stripped.png": "e70a40719e2fba8f9472e197e3f4cfd41eb78828bdf86c3176f373bca2be8715",
-    "cart-03-390.png": "ddbafd6558a213211ef94c7917e0f5626a96a31d9d6c86352606dd5569271ed8",
-    "cart-03-430-stripped.png": "5225163941d09f4cd6fc8f8c783d52c6e0ed2335d6c97f7a60f8fdcc12389e44",
-    "cart-03-430.png": "7261a3d29b2181a6a5d5c4c18b2d1265ca7092fed66ab488747842e7bb270af7",
-    "cart-03-600-stripped.png": "7581ce5c87e10e5300d8e3ad69fe9b2f9d679e923336f420d944ea5f96e4675c",
-    "cart-03-600.png": "6f4544d5bcc100a532d08751ed75ca94a760c083974614a9c96348e616f7b775",
-    "checkout-01-320-stripped.png": "a21b3c79885b7c681ff4b7e744d999d8109ac2d49dc7741bdf0a4fc68fb09eb6",
-    "checkout-01-320.png": "8668e608d1052461aa2fe63a86d467eee8e52c26869606ef1b9501e7a245e5a4",
-    "checkout-01-390-stripped.png": "b038a33c1f9661cb1eec7728d7dd222e75f4cdb5daa7c80020fa85ec92e16bc1",
-    "checkout-01-390.png": "0a8e55da1d9505e04ad46868fb2b3374849fdf9e5c4df1be65dfe496cf8d96e8",
-    "checkout-01-430-stripped.png": "0cfe6ecb616b6064c1292b39fe7fb951c107da710db5091f2d37526ab735200d",
-    "checkout-01-430.png": "6e9253b898ef654eb8abda937e6ea27dc548d1a3394a132498681b1739689c90",
-    "checkout-01-600-stripped.png": "56daf9e9555eed9500fede8f77e5ed81f77d39717c620a72aef43700fb6cfb02",
-    "checkout-01-600.png": "e3d0e0385f6f9eb2db826fd6c83fca7b3286bbdc45bfe7ec8dd0f479310e584e",
-    "checkout-02-320-stripped.png": "75bfdf2f507100b2723e68a81b1fb0a7ea2e69e0d2f2dd76c2f0876f1075d07b",
-    "checkout-02-320.png": "11332494c6ce6828b6a0898efd2f84922250c3ed6446e2c48a46a6e2dc8bdeaf",
-    "checkout-02-390-stripped.png": "ff34159259b7cf611890ee283877af0f776dce054f750c501908f8fc2ea6f366",
-    "checkout-02-390.png": "a1f223c4e18849ea34e44ff33aed1e2358b23d3f25e97761c32b1b9bdae372b7",
-    "checkout-02-430-stripped.png": "b5e50c36e37030bda39ce04156650efabefb8adbc949e521abef7fb4c98f6298",
-    "checkout-02-430.png": "26ddaff8b4817d548623ccc644b942de907a1c5bc687412af599b3e98ce99af2",
-    "checkout-02-600-stripped.png": "e44dfa3bbe2598c07afae5ed33f8a467a1a076202c0f40c27ff3bb22b4f0c9ae",
-    "checkout-02-600.png": "59ad5e43d6642e42015a2cf675c20771476a3a7bedc119942e1cec70ac9caaa9",
-    "checkout-03-320-stripped.png": "74df3d1a54c8c63a9dd465f0342d72fa42c87b2b71fa2720fe82b062cede58e9",
-    "checkout-03-320.png": "29540d869914d9d9f02af691fa172f709ba84f9873843af11cf08fde820a506b",
-    "checkout-03-390-stripped.png": "d23c6f88c676803d9a836815b1c6b82877ce674ef5520e2a50db82fb4804909f",
-    "checkout-03-390.png": "1eb072c2de62ad103824ae3ded6f610d821e8547bf15bf1a07d5471d4a4313aa",
-    "checkout-03-430-stripped.png": "c1b593d4db6f21235fcc5fb80a8e4f4333b6f2e9fee520b7ff1a506b095f1815",
-    "checkout-03-430.png": "9fbeea56d9ee6bf592553564f944d356ea65ba625705d75f7b7c030314db6731",
-    "checkout-03-600-stripped.png": "4682fc37934ae93130f1ff67fc314c824ddf885c6609a6cf6b612f8aeef03a3f",
-    "checkout-03-600.png": "af2cb486205f1170234a0965de534b7511e76c981e925d62f9562a4e81c53486"
+    "cart-01-320-stripped.png": "346922878b3d80363c7ca495d8bf1083317190539fe9945e55875a82b14bedbe",
+    "cart-01-320.png": "674f898103d755e16960fc14e8185f825b65af90482e492401e0af2fb4241d4f",
+    "cart-01-390-stripped.png": "dcf134414554ad575bf526732541bcadd831607b01b52a7128127583e569d62e",
+    "cart-01-390.png": "d0b27624d0d6fa7d483468ec8998450390e3c71064f4e58f979ce3b682386535",
+    "cart-01-430-stripped.png": "4f7615305fc9b66f2494807e48dfdd0f003dab60eb20a25381f23b919b7c7ed8",
+    "cart-01-430.png": "538e1509b50babf9e594ccf6e1e40696fd83baf5c1d4132f4577905bc31c1f33",
+    "cart-01-600-stripped.png": "2138939a7a5776f671c4903b77b167257e8ec240c2c05e37f66c0077616a7c07",
+    "cart-01-600.png": "f2fa80bccecbcce30d06427f8222b090ee5e79368af8d2f828bc0dde20038d11",
+    "cart-02-320-stripped.png": "7c7b3a0437906f5e4d184a4c7273e6ee85a54e761c57e52b909981f570e971d8",
+    "cart-02-320.png": "ab1bc6d0003d4c774906a7a77f9ee1c39ea03f393c70746910a732ec26894150",
+    "cart-02-390-stripped.png": "beaf6b44432aadf2988130fdb4844a42e3cea71ccb93b921d272b6def26d88b6",
+    "cart-02-390.png": "43f3f47630992030c5b61fd5fb9cc0a8d4f06789c467edfbff1c84637f5b581e",
+    "cart-02-430-stripped.png": "afd0f0a9a57076e0977aedd36c59d55d86fe909e80c50b74311210bce75866cf",
+    "cart-02-430.png": "33f5afc86cdc0c41b0561dd7bdd26865107b64b755ebd211abfae585a5f762b8",
+    "cart-02-600-stripped.png": "ba3b7ddefd523a6295680be8f0de40108e1285e71543aa68f5de248b595a6bf5",
+    "cart-02-600.png": "3a3484640b4aa03e99b4a0d8b0bb80df42d4d621d12c9521add0748039858c2f",
+    "cart-03-320-stripped.png": "60d0fd9dfa2b2d1f3c877314746af0aa2c79fdffc522b003e7b51dc2911d3b80",
+    "cart-03-320.png": "fc7ac192f6ec8a3252f9459ffde66ccadb33893d9f10e6319a305053bcadc41d",
+    "cart-03-390-stripped.png": "37783c158495b2e629ffffe1ff8d610d5e8dc3bef5e72cd16124557c648ca6cf",
+    "cart-03-390.png": "8140b6187404c72bfe4f7ef4c48e60a083358c1da48a797c8ab2fe04b99240b0",
+    "cart-03-430-stripped.png": "da36f335470481b5039363bfb02bae43baffceb0a964d1b5006a82e984cf2903",
+    "cart-03-430.png": "d83236354f01305f60e4006ea885407d0b1f7db203e2871a4f24c0d2ca8d7743",
+    "cart-03-600-stripped.png": "663b828f825c4d5ba875ed8a0c9cc73190d6d894335d07e071111488103a6161",
+    "cart-03-600.png": "dce94cd7b918fe3605fbbec693577fa54016f44f837f4819781c4280b73ae8a3",
+    "checkout-01-320-stripped.png": "f6abf30dce59bff78d916d341ff05bb37065939f29590d5fea37fa4f618b06dd",
+    "checkout-01-320.png": "2b3f0601668899310de5718452619d99f619323bb178b4d43a7d8552573f1e38",
+    "checkout-01-390-stripped.png": "b2313cc432de1a013c04c85169086eaf0844a0732626f8e8ca4b6a532e61581a",
+    "checkout-01-390.png": "55768781ae38e94c261ebb34311c571de8acf0516038d3c41be3d3331d7df673",
+    "checkout-01-430-stripped.png": "0becd31262b7455bb5c7b1ba6812be052a5242af709a60fda0a8d0653e9a7794",
+    "checkout-01-430.png": "506f1049e4f51bafeef96ae80a0f1753b4dc4ba0b35bb33752bad60826871329",
+    "checkout-01-600-stripped.png": "0548554eca0abac39ec29942c5809b133b3d1c1abf4e699a9a4ab7f265866029",
+    "checkout-01-600.png": "49e6be43bb04853f253e0460324137355a6be50062b42bf5cb4cd7a92d395975",
+    "checkout-02-320-stripped.png": "679c2930d70899eb55dc50bf106c06251870916478aaf51c8e549a0d6f8b3a83",
+    "checkout-02-320.png": "34d2e775d66d356204f7846b4fd839dac92f06fb01285c42c3dc2093818db6a5",
+    "checkout-02-390-stripped.png": "023a24029de72de5f31150c8fea91dbc17b3ad30207c72149924a97aa3bddd00",
+    "checkout-02-390.png": "2639b142f666fe2b95293642da6f2e430e23b95a2216d11b4edff57675e375a0",
+    "checkout-02-430-stripped.png": "2a66d299df7f10b4f69bd68645d7c790ad3bb487f24f050a712a14152e8e02e9",
+    "checkout-02-430.png": "030bbd1baf45f6c9ec1c557d178081f612f4d3225e899831099e4b8fee2db27a",
+    "checkout-02-600-stripped.png": "b723ce3ba66fe839bee2f5b6c350555994dc99e8ac0acd3b69471682d035e8dc",
+    "checkout-02-600.png": "c16cbbfd0843b60743b910fafc86055762059b700ec55c4d327b951747867543",
+    "checkout-03-320-stripped.png": "eb27a5dff99385cabba66a2b25815b10696f4045b16488afcffaacc31315e72f",
+    "checkout-03-320.png": "1cde71c0306add6600d63799cc37db51fc75394f5f3608df3ffe21d5490fb894",
+    "checkout-03-390-stripped.png": "0e78c770605d6a19439929d28477c3c8b339821b3703fcc0112c6c3d0cc45cc5",
+    "checkout-03-390.png": "012305e40f70bfbd9654a7c7c6bcdc7bbed3db8dd33d31cb3abd117685134446",
+    "checkout-03-430-stripped.png": "2f4bd772e085e2bd21c0facf0b504fc04e3c2620c4152bad770fde9fb59edf7e",
+    "checkout-03-430.png": "fb4d14a52368d8ef93256abcd15d2427b3c6cfffaeca844fcd6da2a4a3b8ebab",
+    "checkout-03-600-stripped.png": "45c5f2fdfbc68a572dfdf2060f9510f2f26f1126d27e051858379ab9d6038658",
+    "checkout-03-600.png": "77e6f8a2df017e454fc842a18774f32c755ab53b0008981fed4480af9b1d9e77"
   }
 }
